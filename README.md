@@ -209,15 +209,3 @@ MIT License
 
 ---
 
-## 🤝 贡献
-
-欢迎提交 Issue 和 Pull Request！
-
-如有问题或建议，请通过以下方式联系：
-
-- 📧 Email: support@counttime.app
-- 🐛 GitHub Issues: [提交问题](https://github.com/counttime/issues)
-
----
-
-> **CountTime** - 让每一秒都清晰可见。
