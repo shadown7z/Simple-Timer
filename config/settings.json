@@ -1,0 +1,10 @@
+{
+  "show_milliseconds": false,
+  "theme": "dark",
+  "font_size": 72,
+  "font_color": "#00ff88",
+  "sound_enabled": false,
+  "vibration_enabled": false,
+  "always_on_top": false,
+  "auto_start": false
+}
